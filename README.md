@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lapptomi
-- 👀 I’m mainly interested in web development, but always looking for a new things to learn!
-- 🌱 I’m currently learning programming languages / technologies such as JavaScript, TypeScript, React, Express, GraphQL, Docker and Python.
+- 👋 Hi, I’m Tomi
+- 👀 I’m mainly interested in web development, but always looking for new things to learn!
 
 <!---
 lapptomi/lapptomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
