@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tomi
-- 👀 I’m mainly interested in web development, but always looking for new things to learn!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lapptomi)](https://github.com/lapptomi/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lapptomi)](https://github.com/lapptomi/github-readme-stats)
 
 <!---
 lapptomi/lapptomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
